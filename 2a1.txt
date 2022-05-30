@@ -1,0 +1,8 @@
+/* write a c program
+to print
+hello world*/
+void main()//main function
+{
+printf("hello world!!");
+}/*this will be the 
+output of program*/
